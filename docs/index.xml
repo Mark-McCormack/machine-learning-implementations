@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to ML-Implementations 🎊 on Machine Learning Implementations</title>
+    <link>https://mark-mccormack.github.io/machine-learning-implementations/</link>
+    <description>Recent content in Welcome to ML-Implementations 🎊 on Machine Learning Implementations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Sep 2022 18:09:37 +0100</lastBuildDate><atom:link href="https://mark-mccormack.github.io/machine-learning-implementations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About 🎊</title>
+      <link>https://mark-mccormack.github.io/machine-learning-implementations/about/</link>
+      <pubDate>Fri, 16 Sep 2022 18:09:37 +0100</pubDate>
+      
+      <guid>https://mark-mccormack.github.io/machine-learning-implementations/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categories 🎊</title>
+      <link>https://mark-mccormack.github.io/machine-learning-implementations/categories/</link>
+      <pubDate>Fri, 16 Sep 2022 18:09:37 +0100</pubDate>
+      
+      <guid>https://mark-mccormack.github.io/machine-learning-implementations/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Genetic Algorithm</title>
+      <link>https://mark-mccormack.github.io/machine-learning-implementations/posts/first-genetic-algorithm/first-genetic-algorithm/</link>
+      <pubDate>Fri, 16 Sep 2022 18:09:37 +0100</pubDate>
+      
+      <guid>https://mark-mccormack.github.io/machine-learning-implementations/posts/first-genetic-algorithm/first-genetic-algorithm/</guid>
+      <description>a
+import random import numpy as np import os The first step in this algorithm is generating the initial population. Here, I have chosen to allow the user to specify the number of characters in an individuals &amp;lsquo;DNA&amp;rsquo; and from that construct the binary string to represent them.</description>
+    </item>
+    
+    <item>
+      <title>Vault 🎊</title>
+      <link>https://mark-mccormack.github.io/machine-learning-implementations/vault/</link>
+      <pubDate>Fri, 16 Sep 2022 18:09:37 +0100</pubDate>
+      
+      <guid>https://mark-mccormack.github.io/machine-learning-implementations/vault/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

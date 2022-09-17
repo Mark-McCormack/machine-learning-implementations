@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mark-mccormack.github.io/machine-learning-implementations/sitemap.xml

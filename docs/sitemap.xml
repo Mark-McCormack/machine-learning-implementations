@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/about/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/categories/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/posts/first-genetic-algorithm/first-genetic-algorithm/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/posts/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/vault/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/</loc>
+            <lastmod>2022-09-16T18:09:37+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://mark-mccormack.github.io/machine-learning-implementations/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>
