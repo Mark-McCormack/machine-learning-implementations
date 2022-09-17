@@ -7,15 +7,11 @@ rtl = false
 
 title = "Machine Learning Implementations"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-# copyright = "Copy, _right?_ :thinking_face:"
-
 dateFormat = "2 January 2006"
 
 [author]
   name = "Mark McCormack"
-  #headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  bio = "Lecturer | Postgraduate Researcher | Head Demonstrator | Tutor"
   links = [
-    { twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/mark-mccormack/" },
   ]
